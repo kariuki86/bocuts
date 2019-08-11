@@ -1,14 +1,1 @@
-{
-  "boCuts": [
-    {
-      "name": "Play Discography",
-      "url": "https://www.icloud.com/shortcuts/705ce93ea0fb452d87abcbd4c475b10b",
-      "desc": "Search iTunes for an artist\'s entire catalog, and automatically start playing in Apple Music"
-    },
-    {
-      "name": "Airdrop Contact",
-      "url": "https://www.icloud.com/shortcuts/05fbee5eb30346cba07bd966a8d68b95",
-      "desc": "Airdrop your contact without having to search in Contacts app"
-    }
-  ]
-}
+{"boCuts":[{"name":"Play Discography","url":"https://www.icloud.com/shortcuts/705ce93ea0fb452d87abcbd4c475b10b","desc":"Search iTunes for an artist's entire catalog, and automatically start playing in Apple Music"},{"name":"Airdrop Contact","url":"https://www.icloud.com/shortcuts/05fbee5eb30346cba07bd966a8d68b95","desc":"Airdrop your contact without having to search in Contacts app"}]}
